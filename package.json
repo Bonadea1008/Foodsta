@@ -1,11 +1,11 @@
 {
-  "name": "FoodSta",
+  "name": "Foodsta",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://bonadea1008/FoodSta",
+  "homepage": "https://bonadea1008.github.io/Foodsta",
   "scripts": {
     "start": "parcel src/*.html --open",
-    "build": "parcel build src/*.html --public-url /FoodSta/"
+    "build": "parcel build src/*.html --public-url /Foodsta/"
   },
   "repository": {
     "type": "git",
