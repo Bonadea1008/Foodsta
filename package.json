@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/bonadea1008/FoodSta.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
-    "swiper": "^8.4.4"
+    "swiper": "^8.4.7"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
